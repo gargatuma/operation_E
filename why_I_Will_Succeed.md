@@ -2,10 +2,28 @@
 
 Why I will be able to achieve success in IT?
 
+The main reason of my believe in my success in Computer Science is my intriguing
+finding after 3 years of programming experience. I think this is the most important
+thing to understand for all programmers, especially for self-taught ones like me.
+This concept is that most important thing to master in programming is not learning
+trending and cutting edge new technologies and frameworks but to learn how to write
+code, how to write clean, readable, efficient code. How to manage the complexity of
+your files, how to use abstraction, how to write modular programs. 
+I'm currently learning them, and I already see the improvement in my programs. 
+
+Second reason of my success will be my ability to master nearly everything by
+myself. Until today I have learned both school and college level science, math
+by myself using a wonderful books. Same goes with programming, I am using all
+free resources on the internet to learn it.
+
+Third reason, I have a mac. I do not have to reinstall my Linux every other day,
+and I do not have to wait to my Windows to update.
+
+
 The main reason of my believe in my success in Computer Science is my (interesting,
 astonishing, intriguing finding, which is in my humble opinion is the most important
 thing to understand to become a true developer who not just merely uses tools created
-by other developers but can build tools he (or others) need by himself. And my finding
+by other developers but can build those tools by himself. And my finding
 is that how many programming languages you know, how many frameworks you can use 
 does not matters what matters is your style of thinking and coding. 
 The ability to divide large problem into manageable chunks (modularity)
